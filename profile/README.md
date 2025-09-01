@@ -56,6 +56,6 @@ Welcome to **Cadify Light**, the Excel add-in that empowers you to design, calcu
 
 ---
 
-For more info, see the full [Cadify Light User Manual](https://cadify.github.io/Cadify-Light-User-Manual/).
+For more info, see the full [Cadify User Manual](https://cadify.github.io/Cadify-User-Manual/).
 
 Thank you for helping us make Cadify better!
